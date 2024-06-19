@@ -52,4 +52,5 @@ I am a full-stack software engineer based in Ahmedabad, India, with 1.5+ years o
 
 ## How to Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/jasmin-korat)
-- [Email](jasminkorat204@gmail.com)
+- [Email](mailto:jasminkorat204@gmail.com)
+
