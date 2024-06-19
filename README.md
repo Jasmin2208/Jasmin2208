@@ -1,38 +1,55 @@
-Hi 👋 I am full stack software engineer from Ahmedabad, India
-Who I am?
-A software developer based in Ahmedabad, India.
-Have 1.5+ years of hands-on experience in web development.
+# Hi 👋
 
-What I'm doing?
-👨‍💻 Writing ReactJS NodeJs MongoDB MySQL HTML CSS JavaScript.
-🌍 Mostly active on the JavaScript community.
-📚 Currently digging deeper in clean architecture, system design, design patterns
-👯 Looking to collaborate on JavaScript/FullStack projects.
+I am a full-stack software engineer based in Ahmedabad, India, with 1.5+ years of hands-on experience in web development.
 
-What I like to disscuss about?
-💬 Ask me about opensource stack web APIs system design scalability design patterns data structures clean code feasibility and requirement analysis.
+## What I'm Doing
+- 👨‍💻 Writing code in **ReactJS**, **Node.js**, **MongoDB**, **MySQL**, **HTML**, **CSS**, and **JavaScript**.
+- 🌍 Mostly active on [LinkedIn](https://www.linkedin.com/in/jasmin-korat) and within the JavaScript community.
+- 📚 Currently diving deeper into clean architecture, system design, and design patterns.
+- 👯 Looking to collaborate on JavaScript/Full Stack projects.
 
-What my skill set looks like?
-🖥 Front-end:
-📜 Languages: • 👨‍🔧 JavaScript • 🧚🏻‍♂️ HTML • 👨🏻‍🎨 CSS
-🔬 Frameworks:
-🌐 Web: • ReactJS
-🗳 UI toolkits: • BootStrap • Material Design • Primereact • CoreUI
+## What I Like to Discuss
+- 💬 Ask me about open-source stack, web APIs, system design, scalability, design patterns, data structures, clean code, feasibility, and requirement analysis.
 
-🗄️ Back-end:
-📜 Languages: • 🧙🏻‍♂️ Nodejs
-🔭 Frameworks: • ExpressJs
-💾 Databases: • MySQL • MongoDB
-🔌 Communication protocols: • Web Socket
+## My Skill Set
 
-What's interesting about me?
-😎 I love to speak really good english, discuss new ideas, and make clients smile.
-😎 I love to delight customers.
-🧐 I love to be very precise and thorough.
+### 🖥 Front-end:
+- 📜 **Languages:**
+  - 👨‍🔧 JavaScript
+  - 🧚🏻‍♂️ HTML
+  - 👨🏻‍🎨 CSS
 
-✍️ I write about why a certain code is written instead of what in the comments.
-⏱️ I'm a workaholic and drink a lot of ☕ water.
-😅 I just can't resist the urge to explore a new tech released in the JavaScript ecosystem.
+- 🔬 **Frameworks:**
+  - 🌐 **Web:**
+    - ReactJS
 
-How to get in touch with me?
-jasminkorat204@gmail.com
+- 🗳 **UI Toolkits:**
+  - Bootstrap
+  - Material Design
+  - PrimeReact
+  - CoreUI
+
+### 🗄️ Back-end:
+- 📜 **Languages:**
+  - 🧙🏻‍♂️ Node.js
+
+- 🔭 **Frameworks:**
+  - Express.js
+
+- 💾 **Databases:**
+  - MySQL
+  - MongoDB
+
+- 🔌 **Communication Protocols:**
+  - WebSocket
+
+## What's Interesting About Me
+- 😎 I love to speak English, discuss new ideas, and make clients smile.
+- 😎 I delight in pleasing customers.
+- 🧐 I am very precise and thorough in my work.
+- ⏱️ I'm a workaholic and drink a lot of water.
+- 😅 I can't resist the urge to explore new technologies in the JavaScript ecosystem.
+
+## How to Get in Touch
+- [LinkedIn](https://www.linkedin.com/in/jasmin-korat)
+- [Email](jasminkorat204@gmail.com)
